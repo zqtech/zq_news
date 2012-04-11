@@ -1,0 +1,292 @@
+#content{
+float:left;
+}
+#sidebar{
+width:255px;
+float:right;
+}
+
+#left{
+width:320px;
+float:left;
+}
+#video .box{
+float:left;
+margin:10px 0 10px 2px;
+*display:inline;
+}
+.videopic{
+width:100px;
+height:70px;
+border:2px solid black;
+}
+.videowords{
+text-align:center;
+font-size:14px;
+color:#1169c4;
+margin-top:2px;
+}
+.videowords a{
+color:#1169c4;
+}
+#picture{
+height:480px;
+border:1px solid #e1e1e1;
+border-top:none;
+margin-top:20px;
+}
+.picbox{ 
+margin:10px 0px 0 12px;
+width:140px;
+text-align:center;
+float:left;
+*display:inline;
+}
+.pic{
+height:110px;
+width:140px;
+border:1px solid #e1e1e1;
+margin-bottom:5px;
+}
+.pic img{
+height:110px;
+width:140px;
+}
+.picwords{
+font-size:14px;
+color:#1169c4;
+}
+.picwords a{
+color:#1169c4;
+}
+#hotspot{
+height:280px;
+border:1px solid #e1e1e1;
+border-top:none;
+margin-top:20px;
+}
+.boxline a{
+color:#000;
+}
+
+#middle{
+width:365px;
+margin-left:20px;
+float:left;
+}
+.hotnews-title{
+float:left;
+font:20px Microsoft Yahei, simhei;
+color:#3b3b3b;
+margin-top:10px;
+margin-bottom:3px;
+}
+.hotnews-title a{
+color:#3b3b3b;
+}
+.hotnews-words{
+line-height:1em;
+float:left;
+padding:3px 8px;
+position:relative;
+left:-7px;
+}
+.hotnews-words a{
+color:#3b3b3b;
+}
+.vt{
+float:left;
+margin-right:10px;;
+}
+.moreline{
+float:left;
+width:100%;
+margin-top:10px;
+}
+.hl{
+float:left;
+margin-top:7px;
+border-top:1px solid #c6c6c6;
+width:85%;
+}
+.rect{
+margin-top:3px;
+width: 0; height: 0;
+border: 6px solid transparent;
+_border-top-color: white;
+_border-bottom-color: white;
+_border-right-color: white;
+_filter: chroma( color =white);
+font-size: 0;  line-height: 0;   
+border-left-color: #1176b6;
+float:right;
+}
+.more1{
+float:right;
+font-size:14px;
+color:#1169c4;
+height:1em;
+}
+.more1 a{
+color:#1169c4;
+}
+#news{
+margin-top:10px;
+}
+#news li{
+margin-left:15px;
+list-style:square;
+line-height:1.7em;
+width:100%;
+}
+#news li a{
+color:#000;
+}
+.ad1{
+width:365px;
+height:90px;
+margin-top:20px;
+border:1px solid #dfdfdf;
+background: url(../images/ad1.jpg);
+}
+.ad1 img{
+width:365px;
+height:90px;
+}
+#deep{
+margin-top:10px;
+}
+.deepmain{
+margin-top:10px;
+float:left;
+}
+.photos{
+float:left;
+width:166px;
+height:110px;
+border:1px solid #e5e5e5;
+}
+.photos img{
+width:166px;
+height:110px;
+}
+.right{
+width:50%;
+float:right;
+color:#8b8b8b;
+}
+.title1{
+font-size:14px;
+color:#1169c4;
+}
+.title1 a{
+color:#1169c4;
+}
+.words{
+margin-top:8px;
+text-indent:2em;
+line-height:1.5em;
+}
+.words span{
+color:#545454;
+}
+.words a{
+color:#c21515;
+}
+.bottom{
+margin:8px 10px 10px 10px;
+}
+.bottom li{
+margin-left:15px;
+list-style:square;
+line-height:1.7em;
+}
+.bottom li a{
+color:#000;
+}
+
+#interview{
+margin-top:10px;
+}
+#notice{
+border:1px solid #e1e1e1;
+border-top:none;
+}
+.noticemain{
+width:94%;
+margin:10px 0 5px 5px;
+}
+.noticemain li{
+height:2em;
+}
+.noticemain li a{
+color:#000;
+}
+#topics{
+margin-top:20px;
+border:1px solid #e1e1e1;
+border-top:none;
+}
+#vote{
+margin-top:20px;
+border:1px solid #e1e1e1;
+border-top:none;
+}
+#vote ul{
+background:url(../images/listback.png);
+}
+.votetitle{
+margin-top:10px;
+text-align:center;
+font:18px Microsoft Yahei, simhei;
+}
+.votetitle a{
+color:#000;
+}
+.votetitle span{
+color:#206bbc;
+}
+.votewords{
+margin-top:8px;
+text-indent:2em;
+line-height:1.5em;
+padding:0 5px 10px 6px;
+}
+#vote li{
+height:24px;
+line-height:24px;
+text-align:left;
+margin:0;
+width:100%;
+float:left;
+*display:inline;
+}
+#vote ul {
+float:left;
+margin-bottom:8px;
+width:100%;
+}
+#vote ul span{
+font-size:14px;
+height:24px;
+line-height:24px;
+color:#4590e4;
+float:left;
+padding-left:12px;
+*display:inline;
+}
+#vote ul span a{
+color:#4590e4;
+}
+#vote ul a{
+height:24px;
+line-height:24px;
+float:right;
+padding:0 10px 0 0;
+*display:inline;
+}
+#department{
+margin-top:20px;
+border:1px solid #e1e1e1;
+border-top:none;
+}
